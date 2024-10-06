@@ -4,17 +4,17 @@
 这部分我只能跟着一步一步操作，前面讲的一堆知识冲击我的大脑，感觉只理解了阿巴阿巴
 
 附成功Streamlit应用后聊天截图
-![alt text](<屏幕截图 2024-10-05 232844.png>)
+![](https://gitee.com/zhe623/text1/raw/master/img/202410061305085.png)
 
 很显然它不接受我的爱
 
 ## 创建Agent
-![alt text](image.png) ←我的ai道祖爷爷
+![](https://gitee.com/zhe623/text1/raw/master/img/202410061304532.png) ←我的ai道祖爷爷
 道引仙师 ai就是会起名
-![alt text](<屏幕截图 2024-10-06 005347.png>)
+![](https://gitee.com/zhe623/text1/raw/master/img/202410061306547.png)
 
 没想到还有这些插件，千年道祖会这些很正常
-![alt text](<屏幕截图 2024-10-06 005401.png>)
+![](https://gitee.com/zhe623/text1/raw/master/img/202410061306902.png)
 
 由于古武以及修仙这方面的文档很难找，知识库就没东西喂给仙师
 * 总结一下
